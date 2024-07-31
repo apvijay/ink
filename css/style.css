@@ -5,23 +5,11 @@
     font-style: normal;
 }
 
-h1
-.tangerine-bold {
+h1, .tangerine-bold {
     font-family: "Tangerine", cursive;
     font-weight: 700;
     font-style: normal;
 }
-
-  
-/* h1 {
-  font-family: "Noto Sans", serif;
-  font-optical-sizing: auto;
-  font-weight: 800;
-  font-style: normal;
-  font-size: 36px; 
-  font-variation-settings:
-    "wdth" 100;
-} */
 
 h1 { 
     margin: 0 0 10px 0; 
@@ -30,11 +18,11 @@ h1 {
     border-bottom: 1px solid #999; 
     line-height: 40px;
     color: #000000;
-    font-size: 36px; 
+    font-size: 72px; 
 }
 
-body {
-    font-family: "Noto Serif", serif;
+body, noto-sans-body {
+    font-family: "Noto Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
