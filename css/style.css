@@ -4,7 +4,7 @@ h1 {
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
-  font-size: 36; 
+  font-size: 48px; 
   font-variation-settings:
     "wdth" 100;
 }
@@ -15,5 +15,27 @@ h1 {
     letter-spacing: 0px; 
     border-bottom: 1px solid #999; 
     line-height: 40px;
-    color: #444444;
-  }
+    color: #000000;
+}
+
+body {
+    font-family: "Noto Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px; 
+    font-variation-settings:
+      "wdth" 100;
+}
+body { 
+    line-height: 24px; 
+    letter-spacing: 0.5px; 
+    text-align: justify;
+}
+
+#page{
+    max-width: 1000px; 
+    padding-left: 1.0%;
+    padding-right: 1.0%;
+    margin: 2.5% auto;
+}
