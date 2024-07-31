@@ -13,8 +13,7 @@ layout: base
       <a href="/">Vijay Rengarajan</a> 
 
       <span class="date">
-        {% assign m = page.date | date: "%-m" | minus: 1 %}
-        {{ site.data.months[m] }}
+        {{ page.date | date: "%-m" }}
         {{ page.date | date: "%-d" }}, 
         {{ page.date | date: "%Y" }}
       </span>
