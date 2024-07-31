@@ -11,6 +11,13 @@ h1, .tangerine-bold {
     font-style: normal;
 }
 
+body, .playwrite-nz-body {
+  font-family: "Playwrite NZ", cursive;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
 h1 { 
     margin: 0 0 10px 0; 
     padding: 20px 0 10px 0; 
@@ -21,7 +28,7 @@ h1 {
     font-size: 72px; 
 }
 
-body, noto-sans-body {
+.noto-sans-body {
     font-family: "Noto Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -34,6 +41,7 @@ body {
     line-height: 24px; 
     letter-spacing: 0.5px; 
     text-align: justify;
+    font-size: 16px; 
 }
 
 #page{
