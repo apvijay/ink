@@ -13,11 +13,9 @@ layout: base
       <a href="/">Vijay Rengarajan</a> 
 
       <span class="date">
-        {% raw %}
-        {{ page.date | date: "%B" }}
-        {{ page.date | date: "%d" | plus:'0' }}, 
+        {{ page.date | date: "%-B" }}
+        {{ page.date | date: "%-d" | plus:'0' }}, 
         {{ page.date | date: "%Y" }}
-        {% endraw %}
       </span>
 
       {% for tag in page.tags %}
