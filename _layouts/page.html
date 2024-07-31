@@ -1,0 +1,38 @@
+---
+layout: base
+---
+
+<body>
+
+  <div id="page">
+      <div>
+          <h1>{{ site.title }}</h1>
+      </div>
+
+      <h2>{{ page.title }}</h2>
+      <a href="/">Vijay Rengarajan</a> 
+
+      <span class="date">
+        {% assign m = page.date | date: "%-m" | minus: 1 %}
+        {{ site.data.months[m] }}
+        {{ page.date | date: "%-d" }}, 
+        {{ page.date | date: "%Y" }}
+      </span>
+
+      {% for tag in page.tags %}
+            <span class="tag">#{{ tag }}</span>
+      {% endfor %}
+
+      <br>
+
+      {{ content }}
+
+      <br>
+      <a href="#" onclick="history.go(-1)"> < Back </a>
+      <br>
+      <a href="/"> ⌂ Home</a>
+      <br>
+
+      {% include footer.html %}
+  </div>
+</body>
