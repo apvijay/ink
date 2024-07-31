@@ -13,11 +13,11 @@ layout: base
       <a href="/">Vijay Rengarajan</a> 
 
       <span class="date">
-        <!-- {% raw %} -->
+        {% raw %}
         {{ page.date | date: "%B" }}
         {{ page.date | date: "%d" | plus:'0' }}, 
         {{ page.date | date: "%Y" }}
-        <!-- {% endraw %} -->
+        {% endraw %}
       </span>
 
       {% for tag in page.tags %}

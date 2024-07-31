@@ -163,3 +163,11 @@ a:hover {
    transform:scale(1.025) translateZ(0);
    backface-visibility: hidden;
 }
+p.footer { 
+    margin: 10px 0 0 0; 
+    padding: 5px 20px 0 20px; 
+    font-size: 12px;
+    border-top: 1px solid #999; 
+    line-height: 16px;
+    color: #333333;
+}
