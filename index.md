@@ -3,8 +3,6 @@ layout: home
 title: Opinions on Tamil Novels and Short Stories
 ---
 
-{{ site.email }}
-
 
 <p class="tabs">
     {% for post in site.posts %}
