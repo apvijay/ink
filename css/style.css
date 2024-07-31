@@ -4,18 +4,16 @@ h1 {
   font-optical-sizing: auto;
   font-weight: 800;
   font-style: normal;
+  font-size: 36; 
   font-variation-settings:
     "wdth" 100;
 }
 
-/* h1 { 
+h1 { 
     margin: 0 0 10px 0; 
     padding: 20px 0 10px 0; 
-    font-size: 28px; 
-    font-weight: 400; 
-    font-family: 'Noto Sans Tamil', 'Pavanam', cursive;
     letter-spacing: 0px; 
     border-bottom: 1px solid #999; 
     line-height: 40px;
     color: #444444;
-  } */
+  }
