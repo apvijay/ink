@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Opinions on Tamil Novels and Short Stories
+title: Opening the Door to Tamil Novels and Short Stories
 ---
 
 
