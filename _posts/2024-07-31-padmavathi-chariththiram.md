@@ -10,6 +10,8 @@ Author: A. Madhavaiya<br>
 Year: 1898<br>
 <br>
 
+_First published Jul 31, 2024. Updated Aug 3, 2024._<br>
+
 When the modern literature was introduced into the Tamil mileau, it was not short stories but novels that caught the eye and the hand of Tamil writers. There were three major novels written before the start of the 20th century -- Pratapa Mudhaliyar Chariththiram (பிரதாப முதலியார் சரித்திரம்) in 1879, Kamalambal Chariththiram (கமலாம்பாள் சரித்திரம்) in 1893, and Padmavathi Chariththiram (பத்மாவதி சரித்திரம்) in 1898, following the naming convention of English novels such as Jane Eyre: An Autobiography.
 
 Padmavathi Chariththiram was written by A. Madhavaiya, published in three parts with the third one unfinished. While the name of the novel mentions Padmavathi as the main character who is a woman, it is actually Narayanan, the man, who can be considered the protagonist. The first part of the novel tells the childhood and teen years of Narayanan, the second part, his initial marriage life, and the final part starts describing the love life of his friend and widower, Gopalan. In an afternote by the author's son, the complications in Gopalan's second marriage would be resolved by the titular character Padmavathi but the author died before finishing the novel.
